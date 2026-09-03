@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scene Anchor System"
+  short_description: "Lock visual scene continuity before generating backgrounds."
+  default_prompt: "Use $scene-anchor-system to audit game backgrounds and turn them into a reusable scene bible."

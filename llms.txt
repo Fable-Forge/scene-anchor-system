@@ -1,0 +1,13 @@
+# Scene Anchor System
+
+> Create consistent scene spaces, camera anchors, and composition constraints.
+
+## Primary instructions
+
+- SKILL.md: https://github.com/Fable-Forge/scene-anchor-system/blob/main/SKILL.md
+- Installation: https://github.com/Fable-Forge/scene-anchor-system/blob/main/docs/install.md
+- Update: https://github.com/Fable-Forge/scene-anchor-system/blob/main/docs/update.md
+
+## Install
+
+`npx skills add Fable-Forge/scene-anchor-system`
